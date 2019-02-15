@@ -1,0 +1,4 @@
+有时候收不到回调查看xml 是否添加了下面 要导出添加才起作用:
+<activity
+            android:name="com.tokenpocket.opensdk.TPAssistActivity"
+            android:exported="true" />
